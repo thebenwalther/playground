@@ -1,6 +1,6 @@
 # A weekend in Santa Ynez Valley
 
-The 60-second video is a 1280 × 720, 16:9 motion graphic with a rotating illustrated 3D map, animated destination markers, readable captions, and an original instrumental soundtrack. It uses stylized terrain and approximate locations, not aerial footage or a navigation map.
+The revised 60-second video is a 1280 × 720, 16:9 film with full-screen modeled 3D scenes, moving cameras, dimensional titles, captions, and an original instrumental soundtrack. The scenes are artistic interpretations, not exact landmark reconstructions or aerial footage.
 
 ## Where to visit
 
@@ -32,10 +32,10 @@ Live opening hours, prices, reservations, and seasonal conditions were not verif
 
 ## Video chapters
 
-- 00:00–00:07 — Santa Ynez Valley introduction
-- 00:07–00:15 — Santa Ynez and Ballard
-- 00:15–00:23 — Solvang
-- 00:23–00:31 — Los Olivos
-- 00:31–00:39 — Buellton
-- 00:39–00:48 — Lake Cachuma
-- 00:48–01:00 — Suggested two-day itinerary
+- 00:00–00:08 — Santa Ynez Valley vineyard introduction
+- 00:08–00:17 — Solvang
+- 00:17–00:26 — Los Olivos
+- 00:26–00:34 — Santa Ynez and Ballard
+- 00:34–00:42 — Buellton
+- 00:42–00:52 — Lake Cachuma
+- 00:52–01:00 — Suggested two-day itinerary
